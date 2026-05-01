@@ -19,7 +19,7 @@ A dual-site enterprise network simulation demonstrating VLAN segmentation, inter
 | Router0 (2901) | Site A gateway — router-on-a-stick for VLAN10 & VLAN20 |
 | Router1 (2901) | Site B gateway — WAN uplink + subinterface routing |
 | Switch0 (2960) | Site A Layer 2 switch — trunk to Router0 |
-| Multilayer Switch (3560) | Site B Layer 3 switch — SVI routing + server VLAN |
+| Multilayer Switch (3560) | Site B Layer 3 switch — SVI routing |
 
 ---
 
@@ -54,5 +54,4 @@ A dual-site enterprise network simulation demonstrating VLAN segmentation, inter
 - Static routing with specific and default routes
 - Point-to-point /30 WAN link between routers
 - Trunk port configuration (dot1Q encapsulation)
-- DNS and HTTP services on Server-PT
 - Systematic troubleshooting using show ip route, show ip interface brief, ping
