@@ -2,7 +2,7 @@
 
 **Author:** Jorge Antonio Nava  
 **Date:** May 2026  
-**Tools:** Cisco Packet Tracer · 2× Cisco 2901 · Cisco 2960 · Cisco 3560 · Server-PT
+**Tools:** Cisco Packet Tracer · 2× Cisco 2901 · Cisco 2960 · Cisco 3560 
 
 ---
 
